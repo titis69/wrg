@@ -10,7 +10,7 @@
 # // Mengambil File Yang diperlukan
 clear
 cd /usr/bin
-wget -O menu-warp "https://raw.githubusercontent.com/DindaPutriFN/warp/main/menu-warp.sh"
+wget -O menu-warp "https://raw.githubusercontent.com/titis69/wrg/main/menu-warp.sh"
 wget -O warp "https://raw.githubusercontent.com/rany2/warp.sh/master/warp.sh"
 chmod +x warp
 chmod +x menu-warp
